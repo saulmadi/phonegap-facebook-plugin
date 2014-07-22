@@ -15,4 +15,5 @@
         <param name="APP_ID" value="294203754077185" />
         <param name="APP_NAME" value="FireTower" />
     </gap:plugin>
+
 </widget>
