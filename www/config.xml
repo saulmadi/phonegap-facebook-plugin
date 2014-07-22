@@ -11,9 +11,13 @@
     <access origin="*" />
 
 
+
+
     <gap:plugin name="com.phonegap.plugins.facebookconnect" version="0.4.0">
+
         <param name="APP_ID" value="294203754077185" />
         <param name="APP_NAME" value="FireTower" />
+
     </gap:plugin>
 
 </widget>
